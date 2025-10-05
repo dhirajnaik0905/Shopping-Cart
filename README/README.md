@@ -39,7 +39,7 @@ Setup and run backend
 
 cd backend
 npm install
-node start
+npm start
 
 
 Server will run at - http://localhost:4000
